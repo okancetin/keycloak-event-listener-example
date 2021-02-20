@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/STATUS-Ready-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/STATUS-Ready-<COLOR>.svg)](https://github.com/okancetin/keycloak-event-listener-example/releases)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/okancetin/keycloak-event-listener-example/commits/main)
 ![system schema](resource/keycloak.png)
 
